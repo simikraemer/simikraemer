@@ -1,13 +1,12 @@
-### Social Media
+### SocMed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-kr%C3%A4mer-b86b92242/)
 [![WEH](https://custom-icon-badges.demolab.com/badge/WEH-181717.svg?logo=weh&logoColor=white)](https://www2.weh.rwth-aachen.de/ags/netzag/)
 [![RWTH](https://custom-icon-badges.demolab.com/badge/RWTH-002D72.svg?logo=itc&logoColor=white)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/uag4clvrv46ojw4afnd8hcpxk)
 
----
-
 ### OS
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
@@ -37,11 +36,12 @@
 ### Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=apache&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Exim4](https://img.shields.io/badge/Exim4-FF6600?style=flat-square&logo=mail-dot-com&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-007E8C?style=flat-square&logo=nagios&logoColor=white)
 ![Dovecot](https://img.shields.io/badge/Dovecot-990000?style=flat-square&logo=mail-dot-com&logoColor=white)
@@ -50,7 +50,6 @@
 ![Wikimedia](https://img.shields.io/badge/Wikimedia-339966?style=flat-square&logo=wikimedia&logoColor=white)
 ![MotionEye](https://img.shields.io/badge/MotionEye-000000?style=flat-square&logo=camera&logoColor=white)
 ![MRBS](https://img.shields.io/badge/MRBS-00599C?style=flat-square&logo=calendar&logoColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
