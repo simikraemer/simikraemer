@@ -5,18 +5,9 @@
 [![RWTH](https://custom-icon-badges.demolab.com/badge/RWTH-002D72.svg?logo=itc&logoColor=white)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/uag4clvrv46ojw4afnd8hcpxk)
 
+
 ### Admin
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
-![Cisco IOS XE](https://img.shields.io/badge/Cisco%20IOS%20XE-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco AireOS](https://img.shields.io/badge/Cisco%20AireOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Exim4](https://custom-icon-badges.demolab.com/badge/Exim4-FF6600.svg?logo=mail&logoColor=white)
@@ -28,6 +19,20 @@
 ![Wikimedia](https://custom-icon-badges.demolab.com/badge/Wikimedia-339966.svg?logo=wikimedia&logoColor=white)
 ![MotionEye](https://custom-icon-badges.demolab.com/badge/MotionEye-000000.svg?logo=eye&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+
+
+### OS
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Raspberry Pi OS](https://img.shields.io/badge/Raspberry%20Pi%20OS-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
+![Cisco IOS XE](https://img.shields.io/badge/Cisco%20IOS%20XE-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco AireOS](https://img.shields.io/badge/Cisco%20AireOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 
 ### Code
