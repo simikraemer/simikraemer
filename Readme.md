@@ -12,7 +12,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Exim4](https://custom-icon-badges.demolab.com/badge/Exim4-FF6600.svg?logo=mail&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
-![Matrix42 Enterprise Manager](https://img.shields.io/badge/Matrix42-FF6600?style=flat-square&logo=matrix&logoColor=white)
+![Matrix42 UEM](https://img.shields.io/badge/Matrix42%20UEM-FF6600?style=flat-square&logo=matrix&logoColor=white)
 ![Active Directory](https://custom-icon-badges.demolab.com/badge/Active%20Directory-0078D4?logo=windows11&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Nagios](https://custom-icon-badges.demolab.com/badge/Nagios-000000.svg?logo=nagios2&logoColor=white)
@@ -24,7 +24,7 @@
 ![Wikimedia](https://custom-icon-badges.demolab.com/badge/Wikimedia-339966.svg?logo=wikimedia&logoColor=white)
 ![MotionEye](https://custom-icon-badges.demolab.com/badge/MotionEye-000000.svg?logo=eye&logoColor=white)
 ![Dovecot](https://custom-icon-badges.demolab.com/badge/Dovecot-990000.svg?logo=dovecot&logoColor=white)
-![WSUS](https://custom-icon-badges.demolab.com/badge/WSUS-0078D6?logo=windows11&logoColor=white)
+![WSUS](https://custom-icon-badges.demolab.com/badge/WSUS-0078D6?logo=windows10&logoColor=white)
 
 
 ### OS
