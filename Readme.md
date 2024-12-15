@@ -46,7 +46,7 @@
 ![Nagios](https://img.shields.io/badge/Nagios-007E8C?style=flat-square&logo=nagios&logoColor=white)
 ![Dovecot](https://img.shields.io/badge/Dovecot-990000?style=flat-square&logo=mail-dot-com&logoColor=white)
 ![Mobotix](https://img.shields.io/badge/Mobotix-0076C0?style=flat-square&logo=camera&logoColor=white)
-![osTicket](https://img.shields.io/badge/osTicket-F48221?style=flat-square&logo=support&logoColor=white)
+![osTicket](https://custom-icon-badges.demolab.com/badge/osTicket-F48221.svg?logo=osticket&logoColor=white)
 ![Wikimedia](https://img.shields.io/badge/Wikimedia-339966?style=flat-square&logo=wikimedia&logoColor=white)
 ![MotionEye](https://img.shields.io/badge/MotionEye-000000?style=flat-square&logo=camera&logoColor=white)
 ![MRBS](https://img.shields.io/badge/MRBS-00599C?style=flat-square&logo=calendar&logoColor=white)
