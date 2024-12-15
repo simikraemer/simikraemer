@@ -1,7 +1,7 @@
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-kr%C3%A4mer-b86b92242/)
-[![WEH](https://custom-icon-badges.demolab.com/badge/WEH-11a50d.svg?logo=https://backend.weh.rwth-aachen.de/favicon.ico&logoColor=white)](https://www2.weh.rwth-aachen.de/ags/netzag/)
+[![WEH](https://custom-icon-badges.demolab.com/badge/WEH-11a50d.svg?logo=weh&logoColor=white)](https://www2.weh.rwth-aachen.de/ags/netzag/)
 [![RWTH](https://img.shields.io/badge/RWTH-002D72?style=flat-square)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/uag4clvrv46ojw4afnd8hcpxk)
 
