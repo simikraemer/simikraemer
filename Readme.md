@@ -18,7 +18,6 @@
 ![osTicket](https://custom-icon-badges.demolab.com/badge/osTicket-F48221.svg?logo=osticket&logoColor=white)
 ![Wikimedia](https://custom-icon-badges.demolab.com/badge/Wikimedia-339966.svg?logo=wikimedia&logoColor=white)
 ![MotionEye](https://custom-icon-badges.demolab.com/badge/MotionEye-000000.svg?logo=eye&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 
 
 ### OS
