@@ -14,10 +14,14 @@
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Nagios](https://custom-icon-badges.demolab.com/badge/Nagios-000000.svg?logo=nagios&logoColor=white)
-![Dovecot](https://custom-icon-badges.demolab.com/badge/Dovecot-990000.svg?logo=dovecot&logoColor=white)
 ![osTicket](https://custom-icon-badges.demolab.com/badge/osTicket-F48221.svg?logo=osticket&logoColor=white)
+![FreeRADIUS](https://custom-icon-badges.demolab.com/badge/FreeRADIUS-0082C9.svg?logo=freeradius&logoColor=white)
+![ISC DHCP](https://custom-icon-badges.demolab.com/badge/ISC%20DHCP-3E6DB0.svg?logo=isc&logoColor=white)
+![CUPS](https://custom-icon-badges.demolab.com/badge/CUPS-000000.svg?logo=cups2&logoColor=white)
+![TYPO3](https://img.shields.io/badge/TYPO3-FF8700?style=flat-square&logo=typo3&logoColor=white)
 ![Wikimedia](https://custom-icon-badges.demolab.com/badge/Wikimedia-339966.svg?logo=wikimedia&logoColor=white)
 ![MotionEye](https://custom-icon-badges.demolab.com/badge/MotionEye-000000.svg?logo=eye&logoColor=white)
+![Dovecot](https://custom-icon-badges.demolab.com/badge/Dovecot-990000.svg?logo=dovecot&logoColor=white)
 
 
 ### OS
