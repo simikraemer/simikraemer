@@ -1,8 +1,8 @@
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-kr%C3%A4mer-b86b92242/)
-[![WEH](https://img.shields.io/badge/WEH%20e.V.-0066CC?style=flat-square&logo=groupme&logoColor=white)](https://www2.weh.rwth-aachen.de/ags/netzag/)
-[![RWTH](https://img.shields.io/badge/IT%20Center%20RWTH-002D72?style=flat-square&logo=microsoftteams&logoColor=white)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
+[![WEH](https://img.shields.io/badge/WEH-11a50d?style=flat-square)](https://www2.weh.rwth-aachen.de/ags/netzag/)
+[![RWTH](https://img.shields.io/badge/RWTH-002D72?style=flat-square)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
 
 ---
