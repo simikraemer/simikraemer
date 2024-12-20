@@ -1,7 +1,7 @@
 ### SocMed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-kr%C3%A4mer-b86b92242/)
-[![WEH](https://custom-icon-badges.demolab.com/badge/WEH-181717.svg?logo=weh&logoColor=white)](https://www2.weh.rwth-aachen.de/simon-fiji-kraemer/)
+[![WEH](https://custom-icon-badges.demolab.com/badge/WEH-181717.svg?logo=weh&logoColor=white)](https://www2.weh.rwth-aachen.de/fiji/)
 [![RWTH](https://custom-icon-badges.demolab.com/badge/RWTH-002D72.svg?logo=itc&logoColor=white)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
 
 
