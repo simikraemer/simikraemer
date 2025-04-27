@@ -1,7 +1,7 @@
 ### SocMed
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/linkedin9.svg?logo=linkedin9&logoColor=white)](https://www.linkedin.com/in/simon-kr%C3%A4mer-b86b92242/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SimiKraemer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SimiKraemer)
 [![WEH](https://custom-icon-badges.demolab.com/badge/WEH-181717.svg?logo=weh&logoColor=white)](https://www2.weh.rwth-aachen.de/fiji/)
 [![RWTH](https://custom-icon-badges.demolab.com/badge/RWTH-002D72.svg?logo=itc&logoColor=white)](https://www.itc.rwth-aachen.de/cms/it-center/it-center/profil/team/~epvp/mitarbeiter-campus-/?gguid=PER-G6XQX6W)
 
